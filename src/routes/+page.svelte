@@ -129,7 +129,44 @@
     </div>
 
     <div class="about">
-        <p class="about_title_p">Q & A</p>
+      <p class="about_title_p">C O M M U N I T Y</p>
+      <h1 class="about_title_h1">R-BUS</h1>
+      <p>- R(Run!) Bus</p>
+      
+      <br>
+      <br>
+      <div id="link">
+        <a href="cafe.naver.com/rbus" target="_blank" style="background-color: #03c75a;" class="btn">Naver Cafe</a>
+        <a href="https://discord.gg/dHZRyRHS" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
+      </div>
+      <br>
+      <p>초이제이비의 버스영상 제작소 R-BUS는 <br>대중교통을 좋아하는 사람이라면 누구나 자유롭게 활동할 수 있는 곳 입니다. <br>이용 수칙은 반드시 지켜주시기를 당부 드립니다.</p>
+      
+
+    </div>
+
+    <div class="about">
+      <p class="about_title_p">B O O K</p>
+      <h1 class="about_title_h1">첫 책은 항상 박력있게</h1>
+      
+      <div class="book" style="margin-top: 1.5rem;">
+        <img class="book_item" style="border-radius: 10%;" width="300rem" src="https://yt3.ggpht.com/Cbm4YxK3GCNhJIyVGjz9F8eLMgQbSd7BjtTLf1arwR8uHbwoq0Yr6fN0tLUxm9AFiokIyMfx0bL9bg=s1600-c-fcrop64=1,000037efffffc810-rw-nd-v1" alt="book">
+        <div class="desc book_item" style="text-align: left;">
+          <p style="font-weight: bold; font-size: 2rem;">첫 책은 항상 박력있게</p>
+          <hr style="margin-top: 0.5rem; margin-bottom: 0.5rem;">
+          <p>첫 책 입니다. <br>
+            버스 동호인들이 겪는 에피소드나 재미있는 이야기들과 <br>
+            버스 기사를 꿈꾸고 있는 저의 고등학교시절의 이야기를 담았습니다. <br>
+            꼭 만화책처럼 읽어주시길 바랍니다.</p>
+          <br>
+          <a href="https://bookk.co.kr/bookStore/678f822449cca2dd779678f4" class="btn" target="_blank">구매하기</a>
+        </div>
+      </div>
+
+    </div>
+
+    <div class="about">
+        <p class="about_title_p">F A Q</p>
         <h1 class="about_title_h1">자주 묻는 질문</h1>
 
         <div class="faq_container">

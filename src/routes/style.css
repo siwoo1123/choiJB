@@ -486,3 +486,25 @@ h1 {
 .del:hover {
   text-decoration: none;
 }
+
+.book {
+  display: flex;
+  justify-content: center;
+}
+
+.desc {
+  margin-left: 0.5rem;
+  margin-top: 3rem;
+}
+
+.btn {
+  text-decoration: none;
+  color: white;
+  background-color: #f58220;
+  padding: 0.5rem;
+  border-radius: 10%;
+}
+
+.btn:hover {
+  background-color: #a85914;
+}
