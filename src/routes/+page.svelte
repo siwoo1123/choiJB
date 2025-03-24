@@ -45,7 +45,7 @@
     const slides = [
         "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_6342.png?alt=media&token=52feeac4-cdf4-442f-b4c2-18ad0ec2bbbf",
         "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_24636.png?alt=media&token=a597e7a9-d5ab-4829-97e9-76f65d78e216",
-        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/1011.jpg?alt=media&token=0e3c4eed-6db4-4ab4-8020-58c49284377f",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/1011.jpg?alt=media&token=f8d1e29f-bbdf-40ad-84b4-5abc7e7dcd97",
         "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_34962.png?alt=media&token=d3023dd2-102e-4b59-9795-8f8e2d02cd0a",
         "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_40253.png?alt=media&token=0269f1eb-cfb3-4817-a203-33761fbb4773",
         "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_77315.png?alt=media&token=49193c26-f38b-4bad-adc6-9b083c4704ee",
