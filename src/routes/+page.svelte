@@ -150,10 +150,8 @@
       <h1 class="about_title_h1">첫 책은 항상 박력있게</h1>
       
       <div class="book" style="margin-top: 1.5rem;">
-        <img class="book_item" style="border-radius: 10%;" width="300rem" src="https://yt3.ggpht.com/Cbm4YxK3GCNhJIyVGjz9F8eLMgQbSd7BjtTLf1arwR8uHbwoq0Yr6fN0tLUxm9AFiokIyMfx0bL9bg=s1600-c-fcrop64=1,000037efffffc810-rw-nd-v1" alt="book">
-        <div class="desc book_item" style="text-align: left;">
-          <p style="font-weight: bold; font-size: 2rem;">첫 책은 항상 박력있게</p>
-          <hr style="margin-top: 0.5rem; margin-bottom: 0.5rem;">
+        <img class="book_item" style="border-radius: 10%;" width="300rem" height="300rem" src="https://yt3.ggpht.com/Cbm4YxK3GCNhJIyVGjz9F8eLMgQbSd7BjtTLf1arwR8uHbwoq0Yr6fN0tLUxm9AFiokIyMfx0bL9bg=s1600-c-fcrop64=1,000037efffffc810-rw-nd-v1" alt="book">
+        <div class="desc book_item" style="text-align: center;">
           <p>첫 책 입니다. <br>
             버스 동호인들이 겪는 에피소드나 재미있는 이야기들과 <br>
             버스 기사를 꿈꾸고 있는 저의 고등학교시절의 이야기를 담았습니다. <br>
