@@ -43,17 +43,17 @@
 
     let index = 0;
     const slides = [
-        "https://cdn.discordapp.com/attachments/1210106158472233014/1353143980174348378/videoframe_6342.png?ex=67e09509&is=67df4389&hm=2d8e933481e2130df3023a62b69a581ce1baac047f7a494f5489ceeba614a0f1&",
-        "https://cdn.discordapp.com/attachments/1210106158472233014/1353143978895347712/videoframe_24636.png?ex=67e09508&is=67df4388&hm=03f66bd7b98e47daff8adac90f8cd9427195f21623349e01858e0cf7c2cbe685&",
-        "https://cdn.discordapp.com/attachments/1323976278394540082/1352609119218962432/1011.jpg?ex=67dff468&is=67dea2e8&hm=70eb825f7f768c1f7500cee6c73fc2c1290deca02b0fcfe2665f907e77b8cdca&",
-        "https://cdn.discordapp.com/attachments/1210106158472233014/1353143977808760902/videoframe_34962.png?ex=67e09508&is=67df4388&hm=e50673639dd6731d8b984944e2545863a05c7cbcf29e354f320c62d7a5a3b0a2&",
-        "https://cdn.discordapp.com/attachments/1210106158472233014/1353143976491745290/videoframe_40253.png?ex=67e09508&is=67df4388&hm=3db2636e9d3427a62a7e1408239cddd74007dd155e448089caca38f6449eaee2&",
-        "https://cdn.discordapp.com/attachments/1210106158472233014/1353143975074336798/videoframe_77315.png?ex=67e09507&is=67df4387&hm=73c6ca1064730721d668bc4c11b97a58960c402b63e1bf941ff0ec49a5216808&",
-        "https://cdn.discordapp.com/attachments/1323976278394540082/1352609106774593578/1006.jpg?ex=67dff465&is=67dea2e5&hm=68fe5de7b58b7a854e546e404492ba6a7eee4cd79bc84590896f056e3bfdf114&",
-        "https://cdn.discordapp.com/attachments/1323976278394540082/1352609107118653493/1008.jpg?ex=67dff465&is=67dea2e5&hm=bc9dd488fcd98240d9901881953a9ab8f5b224bc7204f54383496389e4ed4cea&",
-        "https://cdn.discordapp.com/attachments/1210106158472233014/1353143973740413029/videoframe_36706.png?ex=67e09507&is=67df4387&hm=60a3bf62e84c58a5591673d7f7bece9b6d189a034b5d10eddc5403ac6092a782&",
-        "https://cdn.discordapp.com/attachments/1323976278394540082/1352609120032915509/2000.jpg?ex=67dff468&is=67dea2e8&hm=abd23d4cb341adfa4af744a3c3fd0f8ca320d8859e66402142d13d7d4b732dff&",
-        "https://cdn.discordapp.com/attachments/1323976278394540082/1352609120334647306/2029.jpg?ex=67dff468&is=67dea2e8&hm=e21cb18691e54237550955a85b32ced1327e60775a6b7e9713084676063d1310&",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_6342.png?alt=media&token=52feeac4-cdf4-442f-b4c2-18ad0ec2bbbf",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_24636.png?alt=media&token=a597e7a9-d5ab-4829-97e9-76f65d78e216",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/1008.jpg?alt=media&token=0e3c4eed-6db4-4ab4-8020-58c49284377f",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_34962.png?alt=media&token=d3023dd2-102e-4b59-9795-8f8e2d02cd0a",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_40253.png?alt=media&token=0269f1eb-cfb3-4817-a203-33761fbb4773",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_77315.png?alt=media&token=49193c26-f38b-4bad-adc6-9b083c4704ee",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/1006.jpg?alt=media&token=a7bb4464-9fbd-41d9-89c8-38c3e5a87dc1",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/1008.jpg?alt=media&token=0e3c4eed-6db4-4ab4-8020-58c49284377f",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/videoframe_36706.png?alt=media&token=a011098f-910c-4eee-89e1-99ae83596b66",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/2000.jpg?alt=media&token=ed872965-7c8b-401f-b830-518e2cf6b8f4",
+        "https://firebasestorage.googleapis.com/v0/b/nwitter-reloaded-f4e4d.appspot.com/o/2029.jpg?alt=media&token=ac0fd93d-5d9e-4220-af28-86009bd47134",
     ];
     const slidesToShow = 3;
     const totalSlides = slides.length;
