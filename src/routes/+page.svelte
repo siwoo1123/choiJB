@@ -129,6 +129,22 @@
     </div>
 
     <div class="about">
+      <p class="about_title_p">I N T E R V I E W</p>
+      <h1 class="about_title_h1">버스기사님의 이야기를 들려주세요</h1>
+      
+      <iframe style="margin: 1.5rem;" width="560" height="315" src="https://www.youtube.com/embed/0XUnm52bD-Q?si=qDKWoFcNqv0uSdo9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+      <p>새벽 첫차를 몰며 맞이한 고요한 거리, 수많은 승객을 태우고 내리며 <br> 마주한
+         따뜻한 순간들, 때로는 힘들고 버거웠던 기억까지 <br>
+        그 모든 이야기가 모이면 하나의 멋진 여정이 될 거라 믿습니다! <br>
+        기사님만이 들려주실 수 있는 소중한 이야기를 기다리고 있겠습니다.</p>
+      <br>
+      <a href="https://open.kakao.com/o/sCVNAbZg" class="btn" target="_blank">신청하기</a>
+      <br> <br>
+      <p>신청 비용은 0원입니다.</p>
+  </div>
+
+    <div class="about">
       <p class="about_title_p">C O M M U N I T Y</p>
       <h1 class="about_title_h1">R-BUS</h1>
       <p>- R(Run!) Bus</p>
@@ -137,7 +153,7 @@
       <br>
       <div id="link">
         <a href="cafe.naver.com/rbus" target="_blank" style="background-color: #03c75a;" class="btn">Naver Cafe</a>
-        <a href="https://discord.gg/dHZRyRHS" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
+        <a href="https://discord.gg/WcR6MaFKFv" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
       </div>
       <br>
       <p>초이제이비의 버스영상 제작소 R-BUS는 <br>대중교통을 좋아하는 사람이라면 누구나 자유롭게 활동할 수 있는 곳 입니다. <br>이용 수칙은 반드시 지켜주시기를 당부 드립니다.</p>
