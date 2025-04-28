@@ -153,7 +153,7 @@
       <br>
       <div id="link">
         <a href="cafe.naver.com/rbus" target="_blank" style="background-color: #03c75a;" class="btn">Naver Cafe</a>
-        <a href="https://discord.gg/WcR6MaFKFv" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
+        <!-- <a href="https://discord.gg/WcR6MaFKFv" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a> -->
       </div>
       <br>
       <p>초이제이비의 버스영상 제작소 R-BUS는 <br>대중교통을 좋아하는 사람이라면 누구나 자유롭게 활동할 수 있는 곳 입니다. <br>이용 수칙은 반드시 지켜주시기를 당부 드립니다.</p>
