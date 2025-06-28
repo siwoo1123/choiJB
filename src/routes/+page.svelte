@@ -114,16 +114,18 @@
 
         <div class="video-list">
             {#each videoList as video}
-                <div class="wrapper">
-                    <div class="clash-card barbarian">
-                        <div class="clash-card__image clash-card__image--barbarian" style="background-image: url({video.snippet.thumbnails.medium.url});"></div>
-                        <div class="clash-card__level clash-card__level--barbarian">{new Date(video.snippet.publishedAt).toLocaleDateString()}</div>
-                        <div class="clash-card__unit-name">{video.snippet.title}</div>
-                        <div class="clash-card__unit-description">
-                            <a class="about_context_btn btn_yt" href="https://www.youtube.com/watch?v={video.snippet.resourceId.videoId}" target="_blank" aria-label="yt" ><i class="fab fa-youtube"></i></a>
+                {#if video && video.snippet && video.snippet.thumbnails && video.snippet.thumbnails.medium}
+                    <div class="wrapper">
+                        <div class="clash-card barbarian">
+                            <div class="clash-card__image clash-card__image--barbarian" style="background-image: url({video.snippet.thumbnails.medium.url});"></div>
+                            <div class="clash-card__level clash-card__level--barbarian">{new Date(video.snippet.publishedAt).toLocaleDateString()}</div>
+                            <div class="clash-card__unit-name">{video.snippet.title}</div>
+                            <div class="clash-card__unit-description">
+                                <a class="about_context_btn btn_yt" href="https://www.youtube.com/watch?v={video.snippet.resourceId.videoId}" target="_blank" aria-label="yt" ><i class="fab fa-youtube"></i></a>
+                            </div>
                         </div>
                     </div>
-                </div>
+                {/if}
             {/each}
         </div>
     </div>
