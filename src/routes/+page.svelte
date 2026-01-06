@@ -11,7 +11,7 @@
         },
         {
             q: "카메라 기종이 무엇인가요?",
-            a: "캐논 미러리스 m50 + 15-45mm 씁니다! 휴대폰은 S23+며 주로 4K 24,30fps로 촬영합니다!"
+            a: "캐논 EOS M50 + 15-45mm 씁니다! 휴대폰은 S25+며 주로 4K 24,30fps로 촬영합니다!"
         },
         {
             q: "수익 창출은 안하시나요?",
@@ -143,7 +143,7 @@
       <br>
       <div id="link">
         <a href="https://cafe.naver.com/rbus" target="_blank" style="background-color: #03c75a;" class="btn">Naver Cafe</a>
-        <a href="https://discord.com/invite/Qy7djZnH" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
+        <a href="https://discord.gg/qzJJWbaY" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
       </div>
       
 
