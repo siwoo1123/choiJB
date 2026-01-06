@@ -131,40 +131,44 @@
     </div>
 
     <div class="about">
-      <p class="about_title_p">I N T E R V I E W</p>
-      <h1 class="about_title_h1">버스기사님의 이야기를 들려주세요</h1>
-      
-      <iframe style="margin: 1.5rem;" width="560" height="315" src="https://www.youtube.com/embed/0XUnm52bD-Q?si=qDKWoFcNqv0uSdo9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-      <p>새벽 첫차를 몰며 맞이한 고요한 거리, 수많은 승객을 태우고 내리며 <br> 마주한
-         따뜻한 순간들, 때로는 힘들고 버거웠던 기억까지 <br>
-        그 모든 이야기가 모이면 하나의 멋진 여정이 될 거라 믿습니다! <br>
-        기사님만이 들려주실 수 있는 소중한 이야기를 기다리고 있겠습니다.</p>
-      <br>
-      <a href="https://open.kakao.com/o/sCVNAbZg" class="btn" target="_blank">신청하기</a>
-      <br> <br>
-      <p>신청 비용은 0원입니다.</p>
-  </div>
-
-    <div class="about">
       <p class="about_title_p">C O M M U N I T Y</p>
       <h1 class="about_title_h1">R-BUS</h1>
-      <p>- R(Run!) Bus</p>
-      
+      <p>「버스 영상」 분야 최초 공식 커뮤니티, 버스 영상과 교통합성 모두 R-BUS에서!</p>
       <br>
-      <br>
-      <div id="link">
-        <a href="cafe.naver.com/rbus" target="_blank" style="background-color: #03c75a;" class="btn">Naver Cafe</a>
-        <!-- <a href="https://discord.gg/WcR6MaFKFv" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a> -->
+      <div>
+        <iframe width="480rem" height="270rem" style="border-radius: 2%;" src="https://www.youtube.com/embed/IJ8KwyIBKO0?si=xEB4bhjpPJeiwlPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
       </div>
       <br>
       <p>초이제이비의 버스영상 제작소 R-BUS는 <br>대중교통을 좋아하는 사람이라면 누구나 자유롭게 활동할 수 있는 곳 입니다. <br>이용 수칙은 반드시 지켜주시기를 당부 드립니다.</p>
+      <br>
+      <div id="link">
+        <a href="cafe.naver.com/rbus" target="_blank" style="background-color: #03c75a;" class="btn">Naver Cafe</a>
+        <a href="https://discord.com/invite/Qy7djZnH" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
+      </div>
       
 
     </div>
 
-    <div class="about">
-      <p class="about_title_p">B O O K</p>
+    <div class="about books">
+      <p class="about_title_p">
+        <span id="easteregg1">B O O K 2</span>
+      </p>
+      <h1 class="about_title_h1">나는 버스 덕후입니다</h1>
+      
+      <div class="book" style="margin-top: 1.5rem;">
+        <img class="book_item" style="border-radius: 10%;" width="300rem" height="300rem" src="https://cdn.discordapp.com/attachments/1414980283194802197/1458074855865061559/20260102_115401.jpg?ex=695e5187&is=695d0007&hm=87e469e4e0507c864941aadfef03f33bf81de42ac0dfe6b138f08cb2df68695d&" alt="book">
+        <div class="desc book_item" style="text-align: center;">
+          <p><span style="font-weight: bold;">"버스를 왜 찍어요?"</span> <br>
+          혹시 길거리에서 버스 사진을 찍는 학생들을 본 적이 있나요? <br>
+          이렇게 버스 촬영을 하는 학생들은 바로 '버스 덕후'입니다.</p>
+          <br>
+          <a href="https://bookk.co.kr/bookStore/694e126e329cdab3239f7a39" class="btn" target="_blank">구매하기</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="about books">
+      <p class="about_title_p">B O O K 1</p>
       <h1 class="about_title_h1">첫 책은 항상 박력있게</h1>
       
       <div class="book" style="margin-top: 1.5rem;">
@@ -178,7 +182,6 @@
           <a href="https://bookk.co.kr/bookStore/678f822449cca2dd779678f4" class="btn" target="_blank">구매하기</a>
         </div>
       </div>
-
     </div>
 
     <div class="about">
