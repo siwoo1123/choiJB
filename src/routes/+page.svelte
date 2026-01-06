@@ -143,7 +143,7 @@
       <br>
       <div id="link">
         <a href="https://cafe.naver.com/rbus" target="_blank" style="background-color: #03c75a;" class="btn">Naver Cafe</a>
-        <a href="https://discord.gg/qzJJWbaY" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
+        <a href="https://discord.gg/6qxTgPJt" style="background-color: #5865f2;" target="_blank" class="btn">Discord</a>
       </div>
       
 
