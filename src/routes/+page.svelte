@@ -1,5 +1,6 @@
 <script>
     import './style.css'
+    import sigumchi2 from '$lib/imgs/jjwa.jpg';
     export let data;
     let videoList = data.videoList;
     import { onMount } from 'svelte';
@@ -156,7 +157,7 @@
       <h1 class="about_title_h1">나는 버스 덕후입니다</h1>
       
       <div class="book" style="margin-top: 1.5rem;">
-        <img class="book_item" style="border-radius: 10%;" width="300rem" height="300rem" src="https://cdn.discordapp.com/attachments/1414980283194802197/1458074855865061559/20260102_115401.jpg?ex=695e5187&is=695d0007&hm=87e469e4e0507c864941aadfef03f33bf81de42ac0dfe6b138f08cb2df68695d&" alt="book">
+        <img class="book_item" style="border-radius: 10%;" width="300rem" height="300rem" src={sigumchi2} alt="book">
         <div class="desc book_item" style="text-align: center;">
           <p><span style="font-weight: bold;">"버스를 왜 찍어요?"</span> <br>
           혹시 길거리에서 버스 사진을 찍는 학생들을 본 적이 있나요? <br>
